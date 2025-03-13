@@ -1,0 +1,6 @@
+if SHIELD_SCULPT
+
+config ZMK_KEYBOARD_NAME
+    default "sculpt"
+
+endif
