@@ -1,2 +1,2 @@
 config SHIELD_SCULPT
-    def bool $(shields_list_contains, sculpt)
+    def_bool $(shields_list_contains, sculpt)
